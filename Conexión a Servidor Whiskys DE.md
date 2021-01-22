@@ -6,6 +6,7 @@ Toda conexión debe iniciarse via llave SSH.  El procedimiento para lograr esto 
 Los siguientes pasos solamente deben realizarse la primera vez que se conectan al servidor.  Luego de generar la llave, pueden utilizar `Pageant` para conectar al servidor las veces que sean necesarias.
 
 1.  Instalar Chocolatey
+
 El procedimiento para instalar Chocolatey lo pueden encontrar aquí: [Chocolatey Install](https://chocolatey.org/install)
 
 2.  Abrir una ventana con privilegios de administrador en Powershell

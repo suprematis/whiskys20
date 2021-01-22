@@ -21,3 +21,6 @@ El procedimiento para instalar Chocolatey lo pueden encontrar aquí: [Chocolatey
 
 5.  Presionar botón "Generate" (Putty Key Generator)
 *  Seguir las instrucciones de la herramienta para completar la generación de la llave.
+
+6.  Una vez generada la llave, por favor compartir el contenido de "Public key" via correo electrónico.  El formato es el siguiente:
+`ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAn/LhfxnwPKI7SIStLQKVtVtTlRJ/dM4xxx4eNg9m7WQCsmoZXSEyCmpyVhiQLjsXgxrF8SUsj1IoeuqlRIUwCvgen7g6YCmghTNzkUaW6ol0XuV96e5L8enqljLChQtfhH6BQFcurI0smTRitLZljYLUORH1owfBXVu6bgoqXUKHHwKhj/UF4AmXPsVonllND0MHP4msG7j3FASFY54CW3jQ3J93ekVcoakE0O5rS2yrERhW8vx`

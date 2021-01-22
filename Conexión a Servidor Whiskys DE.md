@@ -45,6 +45,7 @@ Para transferir archivos al servidor se requiere WinSCP, que debería estar inst
 ###  WinSCP
 
 Para transferir archivos al servidor se requiere WinSCP, que debería estar instalado como indica el paso (3).
+
 10.  Abrir una ventana de Powershell y tipear `winscp`
 
 11.  Iniciar una nueva sesión presionando "New Session"

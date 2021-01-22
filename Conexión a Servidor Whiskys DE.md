@@ -20,6 +20,7 @@ El procedimiento para instalar Chocolatey lo pueden encontrar aquí: [Chocolatey
 `puttygen`
 
 5.  Presionar botón "Generate" (Putty Key Generator)
+![Puttygen Image](https://github.com)
 *  Seguir las instrucciones de la herramienta para completar la generación de la llave.
 
 6.  Una vez generada la llave, por favor compartir el contenido de "Public key" via correo electrónico.  El formato es el siguiente:

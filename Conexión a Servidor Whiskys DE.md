@@ -35,6 +35,7 @@ Para transferir archivos al servidor se requiere WinSCP, que debería estar inst
 7.  Abrir una ventana de Powershell y tipear `pageant`
 8.  Pageant aparece en la barra de tareas con este ícono:
 ![Pageant Image](https://github.com/suprematis/whiskys20/blob/master/screenshot_pageant_taskbar.jpg)
+
 9.  Cargar en Pageant la llave privada generada en el paso (5) presionando el botón "Add Key"
 ![Pageant Image Taskbar](https://github.com/suprematis/whiskys20/blob/master/screenshot_pageant_addkey.jpg)
 

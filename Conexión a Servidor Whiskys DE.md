@@ -33,6 +33,7 @@ El procedimiento para instalar Chocolatey lo pueden encontrar aquí: [Chocolatey
 
 Para transferir archivos al servidor se requiere WinSCP, que debería estar instalado como indica el paso (3).
 7.  Abrir una ventana de Powershell y tipear `pageant`
+
 8.  Pageant aparece en la barra de tareas con este ícono:
 ![Pageant Image](https://github.com/suprematis/whiskys20/blob/master/screenshot_pageant_taskbar.jpg)
 

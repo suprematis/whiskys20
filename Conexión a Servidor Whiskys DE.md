@@ -11,11 +11,11 @@ El procedimiento para instalar Chocolatey lo pueden encontrar aquí: [Chocolatey
 
 2.  Abrir una ventana con privilegios de administrador en Powershell
 3.  Instalar los siguientes paquetes con Chocolatey
-###  WinSCP
-`choco install winscp`
+    ###  WinSCP
+    `choco install winscp`
 
-###  putty(y paquetes afines)
-`choco install putty`
+    ###  putty(y paquetes afines)
+    `choco install putty`
 
 4.  Abrir Puttygen para generar llave SSH de acceso (ventana Powershell).
 `puttygen`
